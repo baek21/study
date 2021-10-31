@@ -65,7 +65,7 @@ public class Ex211031_1 {
 			j++;
 		}
 
-		System.out.println("# " + sum);
+		System.out.println("# " + sum); 
 
 	}
 
